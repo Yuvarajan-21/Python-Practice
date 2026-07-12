@@ -1,1 +1,1 @@
-print ("Hello, from feature-login")
+print ("Login feature version 2")
